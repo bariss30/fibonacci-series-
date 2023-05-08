@@ -27,7 +27,7 @@ do
      
 
 
-        System.out.println("barsi");
+        System.out.println("goodby");
      
         
         
